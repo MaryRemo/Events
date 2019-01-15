@@ -1,0 +1,23 @@
+{
+    "Events": [
+      {
+        "event": "Mary's Birthdays",
+        "date": "01/16/19",
+        "location": "NSS",
+        "id": 9
+      },
+      {
+        "userId": "3",
+        "event": "Seths party",
+        "date": "01/17/19",
+        "location": "NSS",
+        "id": 10
+      },
+      {
+        "event": "Jisies",
+        "date": "jbsa",
+        "location": "kjhs",
+        "id": 11
+      }
+    ]
+  }
